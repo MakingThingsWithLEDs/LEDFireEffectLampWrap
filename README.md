@@ -1,4 +1,4 @@
-# Fire-Lamp1 Torch effects only
+# Fire Lamp 2021 Spiral Wrap
 Original Code: https://www.youtube.com/watch?v=64X5sJJ4YKM
 
 Fire Lamp 2021 Spiral Wrap
