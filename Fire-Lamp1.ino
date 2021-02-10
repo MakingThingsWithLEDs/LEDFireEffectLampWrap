@@ -81,7 +81,7 @@ typedef uint16_t(*PatternFunctionPointer)();
 typedef PatternFunctionPointer PatternList [];
 #define ARRAY_SIZE(A) (sizeof(A) / sizeof((A)[0]))
 
-int autoPlayDurationSeconds = 45;
+int autoPlayDurationSeconds = 30;
 unsigned int autoPlayTimout = 0;
 bool autoplayEnabled = true;
 
