@@ -1,4 +1,4 @@
-## LED Fire Effect Lamp Spiral Wrap Configuration
+## LED Fire Effect Lamp Wrap Configuration
 Original Code: https://www.youtube.com/watch?v=64X5sJJ4YKM
 
 180 WS2812B addressable leds
